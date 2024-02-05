@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Fazil.
-- 🌱 I’m an aspiring Data Scientist/Data Analyst
-- 🔨 Go through my repositories to see my DS projects.
+- 🌱 I’m a Data Analyst
+- 🔨 Go through my repositories to see my projects.
 - ☘️ Tools: Python, SQL
 - 🤹🏽 Skills: Machine Learning, NLP, EDA
-- 🤝 Let's connect on [LinkedIn](https://www.linkedin.com/in/fazil-hussain-719b6a118/)
+- 🤝 Let's connect on [LinkedIn](https://www.linkedin.com/in/fazil-hussain/)
