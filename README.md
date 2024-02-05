@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Fazil.
-- 🌱 I’m a Data Analyst
+- 🌱 I’m a Data Analyst and a Data Science enthusiast.
 - 🔨 Go through my repositories to see my projects.
 - ☘️ Tools: Python, SQL
 - 🤹🏽 Skills: Machine Learning, NLP, EDA
